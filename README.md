@@ -1,5 +1,6 @@
 28/09/2023
-GIS readme.md
+# GIS readme.md
+![Megamans](images/Charge_Shot.png)
 Name: Alvin Chan Pui Ho
 3rd year at Reitaku, Major in JIC 
 Birthplace: Hong Kong
